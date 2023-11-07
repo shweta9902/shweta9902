@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shweta9902
 - 👀 I’m interested in singing
 - 🌱 I’m currently learning github...
-- 💞️ I’m looking to collaborate on automation..
+- 💞️ I’m looking to collaborate on automation testing..
 - 📫 How to reach me .....
 
 <!---
